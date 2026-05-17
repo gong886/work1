@@ -1,5 +1,5 @@
 # Design
 
-B3 design note: expand documentation and release review before integration.
+Merged design note: keep C4 implementation preparation and B3 documentation review together.
 
-The merge result should keep branch comparison notes.
+The final branch records how conflicts were identified and resolved manually.

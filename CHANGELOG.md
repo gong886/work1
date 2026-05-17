@@ -1,4 +1,4 @@
 # Changelog
 
-## 1.1.0-B3
-- Update app, design, requirements and changelog on B3.
+## 1.1.0-merged
+- Merge C4 implementation changes with B3 documentation and release changes.
