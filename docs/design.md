@@ -1,5 +1,5 @@
 # Design
 
-The B3 branch expands the project notes for release review and documentation.
+B3 design note: expand documentation and release review before integration.
 
-B3 change: emphasize branch comparison and merge preparation.
+The merge result should keep branch comparison notes.
