@@ -1,3 +1,3 @@
 # Git Local Commit Lab
 
-This project is used for software engineering Git practice.
+This project records the first round of manual changes for R3 and R4.
