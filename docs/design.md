@@ -1,5 +1,5 @@
 # Design
 
-The B2 branch keeps the modules simple and records implementation-oriented notes.
+C4 design note: keep implementation concise and prepare integration from B2.
 
-B2 change: emphasize local code evolution before integration.
+The merge result should preserve both implementation and documentation concerns.

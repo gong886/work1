@@ -1,4 +1,4 @@
 # Changelog
 
-## 1.0.0
-- Create initial B1 branch content.
+## 1.1.0-C4
+- Update app, design, requirements and changelog on C4.
